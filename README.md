@@ -1,6 +1,6 @@
-# Laws of UX Skill
+# UX Design Evaluation Skills
 
-A comprehensive skill teaching the 30 established Laws of UX and how to apply them in product design and interface evaluation.
+A comprehensive skill teaching the 30 established UX laws and how to apply them in product design and interface evaluation.
 
 ## What This Skill Does
 
@@ -109,7 +109,7 @@ This skill triggers when users mention:
 ## File Structure
 
 ```
-laws-of-ux-skill/
+ux-design-skill/
 ├── SKILL.md                    # Main skill (comprehensive guide)
 ├── README.md                   # This file
 └── references/

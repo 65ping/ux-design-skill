@@ -1,6 +1,6 @@
 # UX Design Evaluation Skills
 
-A comprehensive skill teaching the  established UX laws and how to apply them in product design and interface evaluation.
+A comprehensive skill teaching the established UX laws and how to apply them in product design and interface evaluation.
 
 ## What This Skill Does
 

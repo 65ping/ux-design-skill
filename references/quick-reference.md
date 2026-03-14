@@ -1,4 +1,4 @@
-# Laws of UX Quick Reference
+# Quick Reference
 
 Use this for quick lookups when you need specific information about a law.
 

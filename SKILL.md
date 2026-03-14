@@ -1,9 +1,9 @@
 ---
-name: laws-of-ux
+name: UX Design Evaluation
 description: Apply the 30 Laws of UX to product design, UI/UX evaluation, and design critique. Use this skill whenever the user mentions UX principles, design evaluation, usability heuristics, cognitive psychology in design, user interface critique, design feedback, UX best practices, or wants to understand why a design does or doesn't work. Also trigger when users ask questions like "is this good UX?", "how can I improve this design?", "what's wrong with this interface?", or reference specific laws like Fitts's Law, Miller's Law, Jakob's Law, etc.
 ---
 
-# Laws of UX
+# UX Design Evaluation
 
 A comprehensive guide to the 30 established Laws of UX and how to apply them in product design and interface evaluation.
 
@@ -17,7 +17,7 @@ This skill helps you:
 - **Prioritize** which issues are critical vs minor
 - **Design better** by understanding human perception, cognition, and behavior
 
-## The 30 Laws of UX
+## The Laws of UX
 
 ### Perception & Visual Design
 
